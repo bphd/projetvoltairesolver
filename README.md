@@ -7,8 +7,7 @@ a selenium bot to realize all exercices in projet voltaire
 
 If I could here are some points i'd like to add:
 <ul>
-    <li>Make a bypass for rechapcha2 (that is at connection screen).</li>
-    <li>This would allow the next.</li>
+    <li>Make a bypass for rechapcha2 (that is at connection screen). This would allow the next point:</li>
     <li>Make headless app + command line prompt app (don't realize exercises with ipynb, but directly from the prompt. Actually it wouldn't be so long to do).</li>
     <li>Rewrite properly the code, and delete useless chunks (because I can't test it, I don't want to delete it).</li>
     <li>Maybe comment my code more... </li>
